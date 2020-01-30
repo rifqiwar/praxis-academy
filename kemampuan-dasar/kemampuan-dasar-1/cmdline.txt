@@ -1,0 +1,107 @@
+Last login: Thu Jan 30 19:00:57 on ttys000
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % ls file -type .jpg
+ls: -type: No such file or directory
+ls: .jpg: No such file or directory
+ls: file: No such file or directory
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % find ./Documents -type f -name "*.jks"
+./Documents/key.jks
+
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % 
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % ls  
+Applications		Library			flutter
+Creative Cloud Files	Movies			flutter121
+Desktop			Music			key.jks
+Documents		Pictures
+Downloads		Public
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % cd Documents/PRAXIS\ -\ ACADEMY/praxis-academy/ls
+cd: no such file or directory: Documents/PRAXIS - ACADEMY/praxis-academy/ls
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % cd Documents/PRAXIS\ -\ ACADEMY/praxis-academy  
+rifqiwariyanto@Rifqis-MacBook-Pro praxis-academy % ls
+kemampuan-dasar-1
+rifqiwariyanto@Rifqis-MacBook-Pro praxis-academy % cd kemampuan-dasar-1 
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % ls
+kasus	latihan
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % cd kasus 
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % ls
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % ls                  
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % cd      
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % cd Documents/PRAXIS\ -\ ACADEMY/praxis-academy
+rifqiwariyanto@Rifqis-MacBook-Pro praxis-academy % ls
+kemampuan-dasar-1
+rifqiwariyanto@Rifqis-MacBook-Pro praxis-academy % cd kemampuan-dasar-1
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % ls                  
+kasus	latihan
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % cd latihan 
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % ls
+cmdline.txt	shellscripts
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % cd shellscripts 
+rifqiwariyanto@Rifqis-MacBook-Pro shellscripts % ls
+First.sh		if_with_OR.sh		user_input.sh
+echo_example.sh		jajal.sh		while_example.sh
+for_example.sh		multiline-comment.sh
+if_with_AND.sh		simple_if.sh
+rifqiwariyanto@Rifqis-MacBook-Pro shellscripts % cd -
+~/Documents/PRAXIS - ACADEMY/praxis-academy/kemampuan-dasar-1/latihan
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % cd -
+~/Documents/PRAXIS - ACADEMY/praxis-academy/kemampuan-dasar-1/latihan/shellscripts
+rifqiwariyanto@Rifqis-MacBook-Pro shellscripts % cd -
+~/Documents/PRAXIS - ACADEMY/praxis-academy/kemampuan-dasar-1/latihan
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % ls
+cmdline.txt	shellscripts
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % cd -
+~/Documents/PRAXIS - ACADEMY/praxis-academy/kemampuan-dasar-1/latihan/shellscripts
+rifqiwariyanto@Rifqis-MacBook-Pro shellscripts % cd -
+~/Documents/PRAXIS - ACADEMY/praxis-academy/kemampuan-dasar-1/latihan
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % cd --
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % cd Documents/PRAXIS\ -\ ACADEMY/praxis-academy
+rifqiwariyanto@Rifqis-MacBook-Pro praxis-academy % cd kemampuan-dasar-1 
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % ls
+kasus	latihan
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % cd kasus 
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % nano kasus.sh
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % bash kasus.sh
+kasus.sh: line 1: DIRECTORIES: No such file or directory
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % nano kasus.sh
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % bash kasus.sh
+find: ./Document: No such file or directory
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % bash kasus.sh
+find: ./Document: No such file or directory
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % nano kasus.sh
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % bash kasus.sh
+find: /Document: No such file or directory
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % nano kasus.sh       
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % nano kasus2.sh
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % clear
+
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % cd-
+zsh: command not found: cd-
+rifqiwariyanto@Rifqis-MacBook-Pro kasus % cd -
+~/Documents/PRAXIS - ACADEMY/praxis-academy/kemampuan-dasar-1
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % ls 
+kasus	latihan
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % cd latihan 
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % open /Applications/Firefox.app 
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % ls
+cmdline.txt	shellscripts
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % pbcopy < cmdline.txt 
+rifqiwariyanto@Rifqis-MacBook-Pro latihan % cd -
+~/Documents/PRAXIS - ACADEMY/praxis-academy/kemampuan-dasar-1
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % pbpaste >> cmdline.txt
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % ls
+cmdline.txt	kasus		latihan
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % md find -only in ./Documnt
+zsh: command not found: md
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % md find -only in ./Documnt"*.txt"
+zsh: command not found: md
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % md find -only in ./Documnt f -name "*.txt"
+zsh: command not found: md
+rifqiwariyanto@Rifqis-MacBook-Pro kemampuan-dasar-1 % cd
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % mdfind -onlyin ./Documents essay
+/Users/rifqiwariyanto/Documents/KODECOFFEE/WEBSITE ASKOMTA/askomta/gentelella/vendors/Flot/examples/axes-time-zones/tz/northamerica
+/Users/rifqiwariyanto/Documents/KODECOFFEE/WEBSITE ASKOMTA/NANANG/askomta/gentelella/vendors/Flot/examples/axes-time-zones/tz/northamerica
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % 
+
+
+-----
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % say "Never trust a computer you can't lift."
+rifqiwariyanto@Rifqis-MacBook-Pro ~ % say "Never trust a computer you can't lift."
