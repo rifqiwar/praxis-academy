@@ -1,1 +1,1 @@
-find <DIRECTORIES> -type f -name "*.java" 
+mdfind -onlyin ~/Documents .java
