@@ -1,4 +1,4 @@
-<h1> Pembelajaran Bootcame - Bitch #5 - Mobail Dev</h1>
+<h1> Pembelajaran Bootcame - Bitch #5 - Mobail Dev - 01-02</h1>
 
 hari ini kita mempelajari tentang berbagai sintaksis dasar dart
 

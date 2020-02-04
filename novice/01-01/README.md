@@ -1,5 +1,14 @@
 <h1> Pembelajaran Bootcame - Bitch #5 - Mobail Dev - 01-01</h1>
 <h3>Pembahasan</h3>
+Pembahasan
+<ul>
+    <li>Mengenal Dart</li>
+   <li>Ruang lingkup aplikasi Dart</li>
+    <li>Instalasi Dart</li>
+    <li>Dart tools</li>
+    <li>Konfigurasi IDE.</li>
+    <li>Konstruksi dasar kode sumber Dart: struktur program Dart, variabel, pengendali alur, komentar, fungsi, pustaka inti (core libraries).</li>
+</ul>
 
 <!-- <ul>
   <li>Struktur dasar dan konsep penting program Dart</li>
