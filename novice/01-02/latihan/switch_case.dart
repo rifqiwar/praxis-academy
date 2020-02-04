@@ -1,14 +1,25 @@
 import 'dart:io';
+
 void main() {
-  int input = int.tryParse(stdin.readLineSync());
-print("Masukkan nomor yang anda suka...");
-var hasil = stdin.readLineSync();
+  print("masukkan inputan angka...");
+  int num = int.tryParse(stdin.readLineSync());
 
-    if(input < 10){
-    print("Anda apik");
+  switch (cek(num)){
+    case 1:
+    print("angka adalah ganjil...");
+    break;
+    default:
+    print("angka adalah genap");
 
-    }else{
-    print("Anda Joss");
-    }
+  }
+
+}
+
+int cek(int angka){
+  if (angka % 2 == 0){
+    return 0;
+  }else{
+    return 1;
+  }
 
 }
