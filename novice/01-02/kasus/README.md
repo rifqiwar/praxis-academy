@@ -2,7 +2,8 @@
 
 kasus hari ini yang diberikan pada kami 
 diambil dari <a href = https://devinpractice.com/2017/10/22/algorithms-basic-exercises-part-1/>  Algorithm: Basic Exercises - Part 1.  </a>
-
+<br>
+<b> Soal </b>
 Ada beberapa masalah dasar dalam algoritma. Beberapa masalah algoritma tersebut dituliskan di Algorithm: Basic Exercises - Part 1. Silahkan mengambil minimal 5 masalah yang ada disitu, kemudian selesaikan dengan menggunakan Dart.
 <br>
 dan yang berhasil diselesaikan diantaranya :
