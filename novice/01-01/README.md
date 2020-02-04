@@ -1,13 +1,7 @@
-<h1> Pembelajaran Bootcame - Bitch #5 - Mobail Dev</h1>
-
-hari ini kita mempelajari tentang berbagai sintaksis dasar dart
-
-
-
+<h1> Pembelajaran Bootcame - Bitch #5 - Mobail Dev - 01-01</h1>
 <h3>Pembahasan</h3>
 
-
-<ul>
+<!-- <ul>
   <li>Struktur dasar dan konsep penting program Dart</li>
   <li>Kata kunci (keywords)</li>
   <li>Lebih lanjut dengan variabel: var, final, const</li>
@@ -17,4 +11,5 @@ hari ini kita mempelajari tentang berbagai sintaksis dasar dart
   <li>Pengendali alur program: if ... else if ... else, looping for, while, do ... while, break dan continue, switch dan case, serta assert.</li>
   <li>Error dan exception handling</li>
 </ul>
-di  <a href = https://dart.dev/guides/language/language-tour>materi </a>
+di  <a href = https://dart.dev/guides/language/language-tour>materi </a> -->
+
