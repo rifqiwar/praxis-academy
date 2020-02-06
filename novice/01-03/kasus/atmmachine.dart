@@ -28,9 +28,6 @@ void main() {
     balance_i();
     break;
 
-    case 4:
-    exit();
-    break;
 
 
     default:
@@ -66,9 +63,6 @@ void balance_i(){
 
   main();
 }
-void exit(){
-  double exit = 0;
-  print("\n\tTransaction exited. ");
-}
+
 
 
